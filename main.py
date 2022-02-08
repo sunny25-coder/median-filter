@@ -9,8 +9,8 @@ import numpy as np
 
 # входные данные
 input_data = {
-    'path_file': '../MPAU/kotenok.jpg',
-    'path_file_result': '../MPAU/kotenok_result.jpg',
+    'path_file': 'MPAU/kotenok.jpg',
+    'path_file_result': 'MPAU/kotenok_result.jpg',
     'footprint': 4,
     'mode': 'mirror',  # поведение скользяшего окна
 }
